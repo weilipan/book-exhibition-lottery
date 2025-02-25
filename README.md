@@ -1,5 +1,5 @@
-# 📚 書展抽獎程式
-
+# 📚 臺北市立建國高級中學書展抽獎程式
+## 圖書館潘威歷主任
 ## 1️⃣ 專案簡介
 本程式透過 **Google Apps Script** 開發，結合 **Google Forms、Google Sheets 和 Google Docs**，以管理書展抽獎活動。
 
